@@ -64,10 +64,10 @@
 			children = (
 				6B9773652484AFD200E7C098 /* AppDelegate.swift */,
 				6B9773692484AFD200E7C098 /* Main.storyboard */,
-				6B489D1B2484BAAB00FCFB9F /* CompleteToDoViewController.swift */,
-				6B489D192484B64200FCFB9F /* AddToDoViewController.swift */,
 				6B97737C2484B09A00E7C098 /* ToDo.swift */,
 				6B97737A2484B06800E7C098 /* ToDoTableViewController.swift */,
+				6B489D1B2484BAAB00FCFB9F /* CompleteToDoViewController.swift */,
+				6B489D192484B64200FCFB9F /* AddToDoViewController.swift */,
 				6B97736F2484AFD400E7C098 /* Assets.xcassets */,
 				6B9773712484AFD400E7C098 /* LaunchScreen.storyboard */,
 				6B9773742484AFD400E7C098 /* Info.plist */,
